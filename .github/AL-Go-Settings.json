@@ -1,0 +1,9 @@
+{
+  "templateUrl": "https://github.com/businesscentralapps/tmpCxIwC8-PTE@main",
+  "alDoc": {
+    "deployToGitHubPages": false,
+    "ContinuousDeployment": true
+  },
+  "type": "PTE",
+  "MicrosoftTelemetryConnectionString": ""
+}
